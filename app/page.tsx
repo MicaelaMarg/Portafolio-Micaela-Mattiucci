@@ -134,6 +134,17 @@ const githubProjects = [
     updated: "2024-01-20",
     url: "https://github.com/MicaelaMarg/rick-and-morty",
   }
+   {
+    id: 2,
+    name: "Paralives React",
+    description: "Recreación del estilo de Paralives con React. Contiene diseño responsivo, componentes reutilizables y animaciones.",
+    technologies: ["React", "Tailwind CSS", "Framer Motion"],
+    stars: 1,
+    forks: 0,
+    language: "JavaScript",
+    updated: "2025-07-20", // usá la fecha real si querés
+    url: "https://github.com/MicaelaMarg/paralives-react",
+  }
 ];
 
 
