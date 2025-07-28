@@ -123,19 +123,18 @@ export default function Portfolio() {
   ]
 
   const githubProjects = [
-    // Aquí puedes agregar tus proyectos reales de GitHub
-    // Ejemplo de estructura:
-    // {
-    //   id: 1,
-    //   name: "Rick and Morty",
-    //   description: "Descripción del proyecto...",
-    //   technologies: ["React", "Node.js", "MongoDB"],
-    //   stars: 0,
-    //   forks: 0,
-    //   language: "JavaScript",
-    //   updated: "2024-01-20",
-    //   url: "https://github.com/MicaelaMarg/rick-and-morty.git",
-    // }
+   const githubProjects = [
+  {
+    id: 1,
+    name: "Rick and Morty",
+    description: "App que muestra personajes de Rick and Morty usando su API pública.",
+    technologies: ["React", "Node.js", "CSS Modules"],
+    stars: 5, // Número de estrellas en GitHub (puedes dejarlo en 0 si no querés mostrarlo)
+    forks: 2,
+    language: "JavaScript",
+    updated: "2024-01-20",
+    url: "https://github.com/MicaelaMarg/rick-and-morty",
+  }
   ]
 
   useEffect(() => {
