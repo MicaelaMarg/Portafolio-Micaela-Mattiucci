@@ -133,7 +133,8 @@ const githubProjects = [
     language: "JavaScript",
     updated: "2024-01-20",
     url: "https://github.com/MicaelaMarg/rick-and-morty",
-  }
+    image: "/images/rick-and-morty-cover.png"
+  },
    {
     id: 2,
     name: "Paralives React",
@@ -144,6 +145,7 @@ const githubProjects = [
     language: "JavaScript",
     updated: "2025-07-20", // usá la fecha real si querés
     url: "https://github.com/MicaelaMarg/paralives-react",
+     image: "/images/rick-and-morty-cover.png"
   }
 ];
 
