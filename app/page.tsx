@@ -127,14 +127,14 @@ export default function Portfolio() {
     // Ejemplo de estructura:
     // {
     //   id: 1,
-    //   name: "Nombre del Proyecto",
+    //   name: "Rick and Morty",
     //   description: "Descripción del proyecto...",
     //   technologies: ["React", "Node.js", "MongoDB"],
     //   stars: 0,
     //   forks: 0,
     //   language: "JavaScript",
     //   updated: "2024-01-20",
-    //   url: "https://github.com/MicaelaMarg/tu-proyecto",
+    //   url: "https://github.com/MicaelaMarg/rick-and-morty.git",
     // }
   ]
 
