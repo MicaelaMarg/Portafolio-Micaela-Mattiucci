@@ -145,7 +145,7 @@ const githubProjects = [
     language: "JavaScript",
     updated: "2025-07-20", // usá la fecha real si querés
     url: "https://github.com/MicaelaMarg/paralives-react",
-     image: "/images/rick-and-morty-cover.png"
+     image: "home.png"
   }
 ];
 
