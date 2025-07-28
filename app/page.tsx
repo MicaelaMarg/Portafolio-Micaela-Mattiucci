@@ -122,20 +122,20 @@ export default function Portfolio() {
     },
   ]
 
-  const githubProjects = [
-   const githubProjects = [
+const githubProjects = [
   {
     id: 1,
     name: "Rick and Morty",
     description: "App que muestra personajes de Rick and Morty usando su API pública.",
     technologies: ["React", "Node.js", "CSS Modules"],
-    stars: 5, // Número de estrellas en GitHub (puedes dejarlo en 0 si no querés mostrarlo)
+    stars: 5,
     forks: 2,
     language: "JavaScript",
     updated: "2024-01-20",
     url: "https://github.com/MicaelaMarg/rick-and-morty",
   }
-  ]
+];
+
 
   useEffect(() => {
     let ticking = false
