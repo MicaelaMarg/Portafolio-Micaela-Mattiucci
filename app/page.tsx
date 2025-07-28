@@ -14,8 +14,8 @@ export default function Portfolio() {
   const recommendations = [
     {
       id: 1,
-      name: "Dr. Carlos Mendez",
-      position: "Director de Tecnología - HPC",
+      name: "Carlos Mendez",
+      position: "Ingeniero en Bases de Datos - UTN",
       rating: 5,
       comment:
         "Micaela demostró excelentes habilidades técnicas y capacidad de adaptación. Su trabajo en el desarrollo de aplicaciones web fue excepcional.",
@@ -793,15 +793,7 @@ export default function Portfolio() {
                       </a>
                     </div>
                   </div>
-                  <div className="flex items-center">
-                    <Phone className="w-6 h-6 text-green-400 mr-4" />
-                    <div>
-                      <p className="text-gray-400">Teléfono</p>
-                      <a href="tel:+5492233398809" className="text-white hover:text-green-400">
-                        223 339 8809
-                      </a>
-                    </div>
-                  </div>
+                
                   <div className="flex items-center">
                     <MapPin className="w-6 h-6 text-green-400 mr-4" />
                     <div>
